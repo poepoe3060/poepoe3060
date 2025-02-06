@@ -1,6 +1,6 @@
 ## Hi there, I'm Pann Phyu 👋
 
-💡 Odoo Developer | Python Enthusiast | Open-Source Contributor
+💡 Odoo Developer | Big Data Enthusiast | Open-Source Contributor
 
 🔹 Passionate about building scalable Odoo solutions  
 🔹 Experienced in customizing modules, automating workflows, and API integrations  
