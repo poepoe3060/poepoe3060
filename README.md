@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌱 I’m currently working on ERP Software Developer<br><br>&#128187; I’m currently learning Machine Leaning,Cloud, Data Engineering<br><br>👯 I’m looking to collaborate on Data Engineering Projects<br><br>🤝 I’m looking for help with Data Engineering, Machine Leaning, Software Developing <br><br>💬 Ask me about Python, Odoo ERP
+🌱 I’m currently working on ERP Software Developer<br><br>&#128187; I’m currently learning Cloud, Data Engineering and Machine Learning<br><br>👯 I’m looking to collaborate on Data Engineering Projects<br><br>🤝 I’m looking for help with Data Engineering, Machine Leaning, Software Developing <br><br>💬 Ask me about Python, Odoo ERP
 
 
 ## 🌐 Socials:
