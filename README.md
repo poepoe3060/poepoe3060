@@ -17,9 +17,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=poepoe3060&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poepoe3060&show_icons=true&locale=en&layout=compact" alt="poepoe3060" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poepoe3060&show_icons=true&locale=en" alt="poepoe3060" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poepoe3060&" alt="poepoe3060" /></p>
 
