@@ -17,7 +17,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=poepoe3060&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=poepoe3060&icon=8&color=3)](https://visitcount.itsvg.in)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poepoe3060&show_icons=true&locale=en&layout=compact" alt="poepoe3060" /></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poepoe3060&show_icons=true&locale=en" alt="poepoe3060" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poepoe3060&" alt="poepoe3060" /></p>
 
