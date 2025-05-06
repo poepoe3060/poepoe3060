@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 
 🌱 I’m currently working on ERP Software Development.<br><br>&#128187; I’m currently learning Cloud, Data Science and Machine Learning.<br><br>👯 I’m looking to collaborate on real Big Data Projects.<br><br>🤝 I’m looking for help with Data Science, Machine Leaning and Software Developing. <br><br>💬 Ask me about Python and ERP Software Development.
 
@@ -19,7 +19,7 @@
 ## Hosting:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 <br> <br>
-# Operating Systems:
+## Operating Systems:
 ![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 <br> <br>
 ## Databases:
