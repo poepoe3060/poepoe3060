@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-🌱 I’m currently working on ERP Software Development.<br><br>&#128187; I’m currently learning Cloud and Data Engineering.<br><br>👯 I’m looking to collaborate on real Big Data Projects. <br><br>💬 Ask me about Python and ERP Software Development.
+🌱 I’m currently working on ERP Software Development.<br><br>&#128187; I’m currently learning Cloud and Big Data.<br><br>👯 I’m looking to collaborate on real Big Data Projects. <br><br>💬 Ask me about Python and ERP Software Development.
 
 
 ## 🌐 Socials:
